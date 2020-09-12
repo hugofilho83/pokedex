@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="LabelWeight">Peso:</string>
+    <string name="LavelHeight">Altura:</string>
+    <string name="LabelType">Tipos:</string>
+    <string name="LabelHabilidades">Habilidades:</string>
+    <string name="LavelMovimentos">Movimentos:</string>
+    <string name="txtAguarde">Aguarde</string>
+
+
+    <string name="pokeapi_erro_401">Não Autorizado.</string>
+    <string name="pokeapi_erro_400">Não Tratado pela API</string>
+    <string name="pokeapi_erro_500">Erro interno no Servidor da Api</string>
+
+</resources>
